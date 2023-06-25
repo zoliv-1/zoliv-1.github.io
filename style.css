@@ -1,0 +1,58 @@
+body {
+    background-color: #DCDCDC;
+
+}
+
+#flex {
+    display: flex;
+    flex-direction: column;
+
+}
+
+nav {
+    background-color: #FFFAF0;
+    border:3px #000000 solid;
+}
+main {
+    background-color: #FFFAF0;
+    border:3px #000000 solid;
+}
+
+hl2 {
+    color: red;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 18pt;
+}
+
+#center {
+    text-align: center;
+}
+
+#topcolor {
+    background-size:100px solid;
+    background-color: #4169E1;
+    border:3px #000000 solid;
+
+}
+
+#font-top {
+
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 18pt;
+}
+
+#mainfont {
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-size: 14pt;
+}
+
+#left {
+    text-align: left;
+}
+
+#right {
+    text-align: right;
+}
+#justify {
+    text-align: justify;
+}
